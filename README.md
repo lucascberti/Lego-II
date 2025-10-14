@@ -1,7 +1,7 @@
 # Lego II
 Anotações leituras e aula Lego II - IESP - UERJ, Prof. Dr. Rogério Barbosa.
 
-# Aula 14/10 - Ajustando curvas
+# Aula 10 - 14/10 - Ajustando curvas
 
 **ML6:  Supor a normalidade dos ERROS individuais.**
 
