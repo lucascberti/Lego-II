@@ -53,3 +53,23 @@ $$
 --> Nas distribuições paramétricas os momentos* da distribuição são obtidos por meio de alguma função/transformação dos parâmetros  
 
 * momento é um valor esperado de uma potência (centrada ou não) da distribuição
+
+### Distribuição normal 
+
+A função densidade de probabilidade da distribuição Normal é:
+
+$$
+f(x) = \frac{1}{\sigma \sqrt{2\pi}}
+\exp\left(-\frac{(x - \mu)^2}{2\sigma^2}\right)
+$$
+
+Parâmetros:
+
+* $\mu$ --> altera o lugar da distância;
+* $\sigma^2$ --> altera a dispersão da distribuição.
+
+### Distribuições discretas e contínuas
+
+--> Discretas têm $\Omega$ enumerável, contável e é possível calcular a probabilidade. Cada valor do espaço amostral **exatamanete**.
+
+--> Discretas contínuas têm $\Omega$ não contável, não numerável e a probabilidade de um valor específico é irrisória e não é de interesse. Calcular a probabilidade de **intervalos**.
