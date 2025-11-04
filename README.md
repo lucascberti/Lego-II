@@ -17,3 +17,10 @@ O quadrado de uma distribuição normal padrão, é uma distribuição Qui-Quadr
 --> Queremos saber se o beta estimado é diferente de uma certa hipótese de interesse. Para isso, a gente mede quantos desvios-padrão há de distancia entre o valor estimado e nossa hipótese. No teste F, podemos testar múltiplas hipóteses de uma vez.  
 
 --> Se um grupo tem uma variância muito grande, isso quer dier que ele não é tão informativo (variável explicativa de um fenômeno de interesse)
+
+
+# Aula 13 - 04/11 - Probabilidade
+
+--> Uma variável aleatória X é uma função que mapeia alternativas do espaço amostral $\Omega$ para o conjunto dos números reais.  
+
+--> Espaço amostral $\Omega$ é o conjunto das alternativas possíveis de serem sorteados.  
