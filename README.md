@@ -36,3 +36,20 @@ $X : \Omega \to \mathbb{R}$
 qual é a fórmula?   
 qual é o valor pré-determinado dos parâmetros?  
 
+### Distribuição de Poisson 
+
+--> É uma distribuição com espaço amostral
+
+$x : \mathbb{I}$ = {0, 1, 2, ...}
+
+com um único parâmetro $\lambda$ que define, ao mesmo tempo o ponto central e a dispersão 
+
+A função de probabilidade da distribuição de Poisson é dada por:
+
+$$
+f(x) = \frac{e^{-\lambda} \lambda^x}{x!}, \quad x = 0, 1, 2, \ldots
+$$
+
+--> Nas distribuições paramétricas os momentos* da distribuição são obtidos por meio de alguma função/transformação dos parâmetros  
+
+* momento é um valor esperado de uma potência (centrada ou não) da distribuição
