@@ -21,6 +21,18 @@ O quadrado de uma distribuição normal padrão, é uma distribuição Qui-Quadr
 
 # Aula 13 - 04/11 - Probabilidade
 
---> Uma variável aleatória X é uma função que mapeia alternativas do espaço amostral $\Omega$ para o conjunto dos números reais.  
+--> Uma variável aleatória $X$ é uma função que mapeia alternativas do espaço amostral $\Omega$ para o conjunto dos números reais:  
+
+$X : \Omega \to \mathbb{R}$
 
 --> Espaço amostral $\Omega$ é o conjunto das alternativas possíveis de serem sorteados.  
+
+### Funções de distribuição (funções paramétricas)
+
+-->  Distribuição de Bernoulli, distribuição binomial;
+
+-->  Distribuições paramétricas resumem uma tabela grande em um pequeno conjunto de parâmetros (i.e. números pré-definidos) e uma fórmula:
+
+qual é a fórmula?   
+qual é o valor pré-determinado dos parâmetros?  
+
