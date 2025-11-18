@@ -73,3 +73,31 @@ Parâmetros:
 --> Discretas têm $\Omega$ enumerável, contável e é possível calcular a probabilidade. Cada valor do espaço amostral **exatamanete**.
 
 --> Discretas contínuas têm $\Omega$ não contável, não numerável e a probabilidade de um valor específico é irrisória e não é de interesse. Calcular a probabilidade de **intervalos**.
+
+# Aula 14 - 18/11
+
+## Método da Máxima Verossimilhança e Modelos logit e probit para variáveis discretas binárias
+
+- Probabilidade conjunta é representada pela função p(x, y);
+- Geralmente a gente condiciona na variável explicativa;
+- Amostra com reposição e amostra sem reposição (independencia e dependencia)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
