@@ -19,7 +19,7 @@ O quadrado de uma distribuição normal padrão, é uma distribuição Qui-Quadr
 --> Se um grupo tem uma variância muito grande, isso quer dier que ele não é tão informativo (variável explicativa de um fenômeno de interesse)
 
 
-# Aula 13 - 04/11 - Probabilidade
+# Aula 12 - 04/11 - Probabilidade
 
 --> Uma variável aleatória $X$ é uma função que mapeia alternativas do espaço amostral $\Omega$ para o conjunto dos números reais:  
 
@@ -74,7 +74,7 @@ Parâmetros:
 
 --> Discretas contínuas têm $\Omega$ não contável, não numerável e a probabilidade de um valor específico é irrisória e não é de interesse. Calcular a probabilidade de **intervalos**.
 
-# Aula 14 - 18/11
+# Aula 13 - 18/11
 
 ## Método da Máxima Verossimilhança e Modelos logit e probit para variáveis discretas binárias
 
@@ -82,14 +82,31 @@ Parâmetros:
 - Geralmente a gente condiciona na variável explicativa;
 - Amostra com reposição e amostra sem reposição (independencia e dependencia)
 
+# Aula 14 - 25/11
 
+## Modelos logit e probit para variáveis discretas binárias
+ 
+ - Inclusão de variável dummy já muda o cenário;
+ - A regressão com apenas uma dummy e uma contínua não fica mais uma nuvem de pontos;
+ - GLM (generalized linear models) onde um $$f(y) = X\beta + \varepsilon$$;
 
+### Modelo Linear de Probabilidade (LPM em inglês)
 
+- OLS com variável dependente binária 
 
+### IMPORTANTE
 
+**Regressão logística (logit) da resultados em PORCENTAGEM - crescimento percentual**
 
+**O LPM dá resultadps em PONTOS PERCENTUAIS - soma**
 
+### Problemas do LPM
 
+- Nonsensical Predictions: valores de y negativos ou maiores que 1.
+- Utilizamos transformações na variável dependente x;
+
+Passo 1: assumir uma distribuição paramétrica;
+Passo 2: Usar uma transformação que permita modelagem linear.  c
 
 
 
