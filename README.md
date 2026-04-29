@@ -109,7 +109,7 @@ Passo 1: assumir uma distribuição paramétrica;
 Passo 2: Usar uma transformação que permita modelagem linear.  c
 
 $$
-beta_zy = beta zx * beta_xy
+beta_z_y = beta_z_x * beta_x_y
 $$
 
 
